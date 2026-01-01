@@ -1,8 +1,0 @@
-
-{
-  "name": "DailyRise",
-  "description": "A sophisticated AI-driven productivity assistant and mental well-being tracker.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
